@@ -230,7 +230,7 @@ body {
 }
 
 .sidebar-section__my-photo {
-  height: 400px;
+  max-height: 400px;
   max-width: 370px;
   margin-left: auto;
   margin-right: auto;
