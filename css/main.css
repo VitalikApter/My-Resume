@@ -49,9 +49,15 @@ body {
   padding-bottom: 90px;
   padding-left: 50px;
   padding-right: 30px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
+}
+
+.main-content__title {
+  font-style: normal;
+  font-weight: bold;
+  font-size: 22px;
+  line-height: 27px;
+  color: #000;
+  margin-bottom: 10px;
 }
 
 .education {
@@ -135,7 +141,7 @@ body {
 .about-me__description {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
   margin-top: 20px;
