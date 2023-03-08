@@ -49,6 +49,9 @@ body {
   padding-bottom: 90px;
   padding-left: 50px;
   padding-right: 30px;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 .main-content__title {
