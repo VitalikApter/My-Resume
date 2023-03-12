@@ -33,7 +33,6 @@ a {
 
 body {
   font-family: "Montserrat", sans-serif;
-  background-color: #f5f7fa;
 }
 
 .main {
@@ -41,7 +40,7 @@ body {
   flex-direction: row-reverse;
   width: 1200px;
   background-color: #fff;
-  margin: 40px auto;
+  margin: 0 auto;
 }
 
 .main-content-section {
@@ -79,7 +78,7 @@ body {
 .my-education__company {
   font-style: normal;
   font-weight: bold;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 20px;
   color: #fb6d3a;
   margin-bottom: 10px;
@@ -97,7 +96,7 @@ body {
 .my-education__date {
   font-style: normal;
   font-weight: normal;
-  font-size: 12px;
+  font-size: 18px;
   line-height: 15px;
   color: #a8a8a8;
   margin-bottom: 10px;
@@ -168,7 +167,7 @@ body {
 .my-projects__link {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
 }
@@ -179,7 +178,7 @@ body {
 .my-projects__text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #595959;
   margin-left: 5px;
@@ -188,7 +187,7 @@ body {
 .my-projects__bracket {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 24px;
   color: #000000;
 }
@@ -280,7 +279,7 @@ body {
 .sidebar-section-Contacts__type {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.71;
   color: #fff;
   margin-right: 7px;
@@ -291,7 +290,7 @@ body {
   margin-bottom: 15px;
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.71;
   color: #c7cace;
 }
@@ -331,7 +330,7 @@ body {
 .tech-skills__item-text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.71;
   color: white;
 }
@@ -343,7 +342,7 @@ body {
 .soft-skills__item-text {
   font-style: normal;
   font-weight: normal;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 1.71;
   color: white;
 }
