@@ -2,7 +2,7 @@
 .my-education__title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 27px;
   color: #000;
   margin-bottom: 10px;
@@ -11,7 +11,7 @@
 .my-education__company {
   font-style: normal;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
   color: #fb6d3a;
   margin-bottom: 10px;
@@ -20,10 +20,10 @@
 .my-education__professional {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 17px;
   color: #000000;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .my-education__date {
@@ -43,12 +43,12 @@
   color: #000;
 }
 
-.my-education__devider {
-  color: #000000;
-  font-weight: 400;
-}
 
 
 .specilazation {
   display: flex;
+}
+
+.first {
+  margin-bottom: 30px;
 }

@@ -1,5 +1,5 @@
 .about-me {
-    margin: 0;
+    margin-bottom: 60px;
 }
 
 .about-me__Name {
@@ -8,22 +8,23 @@
     font-size: 40px;
     line-height: 55px;
     color: #000;
+    margin-bottom: 10px;
 }
 
-.about-me__name {
+.profession {
     font-style: normal;
     font-weight: bold;
-    font-size: 45px;
+    font-size: 40px;
     line-height: 55px;
     color: #000;
-    margin: 102 342 40 88;
+    // margin: 102 342 40 88;
 }
 
 .about-me__description {
     font-style: normal;
     font-weight: normal;
-    font-size: 18px;
-    line-height: 24px;
+    font-size: 20px;
+    line-height: 30px;
     color: #595959;
     margin-top: 20px;
     margin-bottom: 20px;

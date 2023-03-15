@@ -45,15 +45,12 @@ body {
 
 .main-content-section {
   padding: 90px 30px;
-  display: flex;
-  flex-direction: column;
-  justify-content: space-around;
 }
 
 .main-content__title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 27px;
   color: #000;
   margin-bottom: 10px;
@@ -62,7 +59,7 @@ body {
 .my-education__title {
   font-style: normal;
   font-weight: bold;
-  font-size: 22px;
+  font-size: 28px;
   line-height: 27px;
   color: #000;
   margin-bottom: 10px;
@@ -71,7 +68,7 @@ body {
 .my-education__company {
   font-style: normal;
   font-weight: bold;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 20px;
   color: #fb6d3a;
   margin-bottom: 10px;
@@ -80,10 +77,10 @@ body {
 .my-education__professional {
   font-style: normal;
   font-weight: bold;
-  font-size: 14px;
+  font-size: 18px;
   line-height: 17px;
   color: #000000;
-  margin-bottom: 5px;
+  margin-bottom: 10px;
 }
 
 .my-education__date {
@@ -103,17 +100,16 @@ body {
   color: #000;
 }
 
-.my-education__devider {
-  color: #000000;
-  font-weight: 400;
-}
-
 .specilazation {
   display: flex;
 }
 
+.first {
+  margin-bottom: 30px;
+}
+
 .about-me {
-  margin: 0;
+  margin-bottom: 60px;
 }
 
 .about-me__Name {
@@ -122,31 +118,35 @@ body {
   font-size: 40px;
   line-height: 55px;
   color: #000;
+  margin-bottom: 10px;
 }
 
-.about-me__name {
+.profession {
   font-style: normal;
   font-weight: bold;
-  font-size: 45px;
+  font-size: 40px;
   line-height: 55px;
   color: #000;
-  margin: 102 342 40 88;
 }
 
 .about-me__description {
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 30px;
   color: #595959;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 
+.my-projects {
+  margin-bottom: 60px;
+}
+
 .my-projects__item {
   color: #000;
   font-weight: 700;
-  margin-bottom: 20px;
+  margin-bottom: 30px;
 }
 
 .my-projects__list {
@@ -156,8 +156,8 @@ body {
 .my-projects__link {
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 30px;
   color: #595959;
 }
 .my-projects__link:hover {
@@ -167,17 +167,18 @@ body {
 .my-projects__text {
   font-style: normal;
   font-weight: normal;
-  font-size: 18px;
+  font-size: 20px;
   line-height: 24px;
   color: #595959;
   margin-left: 5px;
+  margin-top: 10px;
 }
 
 .my-projects__bracket {
   font-style: normal;
   font-weight: bold;
-  font-size: 18px;
-  line-height: 24px;
+  font-size: 20px;
+  line-height: 30px;
   color: #000000;
 }
 
